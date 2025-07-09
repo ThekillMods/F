@@ -1,1 +1,3 @@
-Follow me Telegram
+expire=2025-07-09 17:54
+mensaje=Este mod expirará el 15 de julio. ¡Actualízalo ya!
+activo=true
